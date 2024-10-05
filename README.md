@@ -10,6 +10,8 @@ The purpose of writing this software was to demonstrate key C# concepts, such as
 
 [Software Demo Video] https://www.youtube.com/watch?v=WMv2UrzyYtI
 
+https://github.com/colema01/Employee-Management
+
 # Development Environment
 
 I used Visual Studio Code as the main tool to write and run the C# code, with the .NET Core SDK for compiling the project. I also used GitHub to track changes and manage the project.
