@@ -20,8 +20,10 @@ The programming language is C#, which is object-oriented and part of the .NET fr
 
 {Make a list of websites that you found helpful in this project}
 
-- [[[Web Site Name](http://url.link.goes.here)](https://learn.microsoft.com/en-us/troubleshoot/developer/visualstudio/csharp/language-compilers/read-write-text-file)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[- [Web Site Name](http://url.link.goes.here)](https://www.w3schools.com/)
+- [Web Site Name](https://learn.microsoft.com/en-us/troubleshoot/developer/visualstudio/csharp/language-compilers/read-write-text-file)]
+- (https://learn.microsoft.com/en-us/dotnet/csharp/)
+- [Web Site Name](https://www.w3schools.com/)
+
 
 # Future Work
 
